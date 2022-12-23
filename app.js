@@ -17,6 +17,8 @@ function countDown(num) {
       console.log(num);
     }
   }, 1000);
+
+  console.log("hello");
 }
 
 //randomGame
